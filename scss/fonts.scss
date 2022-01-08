@@ -1,0 +1,11 @@
+// @font-face {
+//    font-family: "TT Commons";
+//    src: local("TT Commons Pro Expanded"), url("../fonts/TTCommons-Black.woff2") format("woff2"),
+//       url("../fonts/TTCommons-Black.woff") format("woff"), url("../fonts/TTCommons-Black.ttf") format("ttf");
+// }
+
+@font-face {
+   font-family: "TT Commons";
+   src: local("TT Commons Pro Expanded"), url("../fonts/TTCommonsProExp-Blk.woff2") format("woff2"),
+      url("../fonts/TTCommonsProExp-Blk.woff") format("woff"), url("../fonts/TTCommonsProExp-Blk.ttf") format("ttf");
+}
